@@ -1,0 +1,554 @@
+[
+    {
+        "name": "Algeria",
+        "capital": "Algiers",
+        "population": 43851043,
+        "fr": "Algérie",
+        "flag": "https://flagcdn.com/dz.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Emblem_of_Algeria.svg/800px-Emblem_of_Algeria.svg.png",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Algeria_%28centered_orthographic_projection%29.svg/langfr-800px-Algeria_%28centered_orthographic_projection%29.svg.png"
+    },
+    {
+        "name": "Angola",
+        "capital": "Luanda",
+        "population": 32866268,
+        "fr": "Angola",
+        "flag": "https://flagcdn.com/ao.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Emblem_of_Angola.svg/800px-Emblem_of_Angola.svg.png",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/8/89/Angola_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "Benin",
+        "capital": "Porto-Novo",
+        "population": 12123198,
+        "fr": "Bénin",
+        "flag": "https://flagcdn.com/bj.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/1/13/Coat_of_arms_of_Benin.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/e/e9/BEN_orthographic.svg"
+    },
+    {
+        "name": "Botswana",
+        "capital": "Gaborone",
+        "population": 2351625,
+        "fr": "Botswana",
+        "flag": "https://flagcdn.com/bw.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/d/de/Coat_of_arms_of_Botswana.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/7/79/Botswana_%28centered_orthographic_projection%29.svg"
+    },
+    {
+        "name": "Burkina Faso",
+        "capital": "Ouagadougou",
+        "population": 20903278,
+        "fr": "Burkina Faso",
+        "flag": "https://flagcdn.com/bf.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/9/96/Coat_of_arms_of_Burkina_Faso.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/8/86/Burkina_Faso_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "Burundi",
+        "capital": "Gitega",
+        "population": 11890781,
+        "fr": "Burundi",
+        "flag": "https://flagcdn.com/bi.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Blason_du_Burundi.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/2/27/Burundi_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "Cameroon",
+        "capital": "Yaoundé",
+        "population": 26545864,
+        "fr": "Cameroun",
+        "flag": "https://flagcdn.com/cm.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Coat_of_arms_of_Cameroon.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Cameroon_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "Cabo Verde",
+        "capital": "Praia",
+        "population": 555988,
+        "fr": "Cap Vert",
+        "flag": "https://flagcdn.com/cv.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Coat_of_arms_of_Cape_Verde.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/4/47/Cape_Verde_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "Central African Republic",
+        "capital": "Bangui",
+        "population": 4829764,
+        "fr": "République centrafricaine",
+        "flag": "https://flagcdn.com/cf.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Coat_of_arms_of_the_Central_African_Republic.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Central_African_Republic_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "Chad",
+        "capital": "N'Djamena",
+        "population": 16425859,
+        "fr": "Tchad",
+        "flag": "https://flagcdn.com/td.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coat_of_arms_of_Chad.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/4/46/Chad_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "Comoros",
+        "capital": "Moroni",
+        "population": 869595,
+        "fr": "Comores",
+        "flag": "https://flagcdn.com/km.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Seal_of_the_Comoros.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Comoros_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "Congo",
+        "capital": "Brazzaville",
+        "population": 5518092,
+        "fr": "Congo",
+        "flag": "https://flagcdn.com/cg.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Coat_of_arms_of_the_Republic_of_the_Congo.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Republic_of_the_Congo_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "Congo (Democratic Republic of the)",
+        "capital": "Kinshasa",
+        "population": 89561404,
+        "fr": "Congo (Rép. dém.)",
+        "flag": "https://flagcdn.com/cd.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Coat_of_arms_of_the_Democratic_Republic_of_the_Congo.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Democratic_Republic_of_the_Congo_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "Djibouti",
+        "capital": "Djibouti",
+        "population": 988002,
+        "fr": "Djibouti",
+        "flag": "https://flagcdn.com/dj.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Emblem_of_Djibouti.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Djibouti_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "Egypt",
+        "capital": "Cairo",
+        "population": 102334403,
+        "fr": "Égypte",
+        "flag": "https://flagcdn.com/eg.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Coat_of_arms_of_Egypt_%28Official%29.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/a/a1/EGY_orthographic.svg"
+    },
+    {
+        "name": "Equatorial Guinea",
+        "capital": "Malabo",
+        "population": 1402985,
+        "fr": "Guinée-Équatoriale",
+        "flag": "https://flagcdn.com/gq.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Coat_of_arms_of_Equatorial_Guinea.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Location_Equatorial_Guinea_AU_Africa.svg"
+    },
+    {
+        "name": "Eritrea",
+        "capital": "Asmara",
+        "population": 5352000,
+        "fr": "Érythrée",
+        "flag": "https://flagcdn.com/er.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/7/70/Emblem_of_Eritrea_%28sinople_argent_naturel_azur%29.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/4/43/Eritrea_%28Africa_orthographic_projection%29.svg"
+    },
+    {
+        "name": "Ethiopia",
+        "capital": "Addis Ababa",
+        "population": 114963583,
+        "fr": "Éthiopie",
+        "flag": "https://flagcdn.com/et.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Emblem_of_Ethiopia.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Ethiopia_%28Africa_orthographic_projection%29.svg"
+    },
+    {
+        "name": "Gabon",
+        "capital": "Libreville",
+        "population": 2225728,
+        "fr": "Gabon",
+        "flag": "https://flagcdn.com/ga.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/7/77/Coat_of_arms_of_Gabon.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Gabon_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "Gambia",
+        "capital": "Banjul",
+        "population": 2416664,
+        "fr": "Gambie",
+        "flag": "https://flagcdn.com/gm.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Coat_of_arms_of_The_Gambia.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/1/16/Gambia_%28orthographic_projection_with_inset%29.svg"
+    },
+    {
+        "name": "Ghana",
+        "capital": "Accra",
+        "population": 31072945,
+        "fr": "Ghana",
+        "flag": "https://flagcdn.com/gh.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/5/59/Coat_of_arms_of_Ghana.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/3/30/Ghana_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "Guinea",
+        "capital": "Conakry",
+        "population": 13132792,
+        "fr": "Guinée",
+        "flag": "https://flagcdn.com/gn.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/0/08/Coat_of_arms_of_Guinea-new.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Guinea_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "Guinea-Bissau",
+        "capital": "Bissau",
+        "population": 1967998,
+        "fr": "Guinée-Bissau",
+        "flag": "https://flagcdn.com/gw.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/0/06/Emblem_of_Guinea-Bissau.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Location_Guinea_Bissau_AU_Africa.svg"
+    },
+    {
+        "name": "Ivory Coast",
+        "capital": "Yamoussoukro",
+        "population": 26378275,
+        "fr": "Côte d'Ivoire",
+        "flag": "https://flagcdn.com/ci.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/9/95/Coat_of_arms_of_Ivory_Coast.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/9/9b/C%C3%B4te_d%27Ivoire_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "Kenya",
+        "capital": "Nairobi",
+        "population": 53771300,
+        "fr": "Kenya",
+        "flag": "https://flagcdn.com/ke.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Coat_of_arms_of_Kenya_%28Official%29.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Kenya_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "Lesotho",
+        "capital": "Maseru",
+        "population": 2142252,
+        "fr": "Lesotho",
+        "flag": "https://flagcdn.com/ls.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/4/42/Coat_of_arms_of_Lesotho.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Lesotho_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "Liberia",
+        "capital": "Monrovia",
+        "population": 5057677,
+        "fr": "Liberia",
+        "flag": "https://flagcdn.com/lr.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/6/64/Coat_of_arms_of_Liberia.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/9/91/Liberia_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "Libya",
+        "capital": "Tripoli",
+        "population": 6871287,
+        "fr": "Libye",
+        "flag": "https://flagcdn.com/ly.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/0/08/Seal_of_the_Government_of_National_Unity_%28Libya%29.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/0/07/Libya_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "Madagascar",
+        "capital": "Antananarivo",
+        "population": 27691019,
+        "fr": "Madagascar",
+        "flag": "https://flagcdn.com/mg.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Seal_of_Madagascar.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Madagascar_%28centered_orthographic_projection%29.svg"
+    },
+    {
+        "name": "Malawi",
+        "capital": "Lilongwe",
+        "population": 19129955,
+        "fr": "Malawi",
+        "flag": "https://flagcdn.com/mw.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Coat_of_arms_of_Malawi.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Malawi_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "Maldives",
+        "capital": "Malé",
+        "population": 540542,
+        "fr": "Maldives",
+        "flag": "https://flagcdn.com/mv.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/2/29/Emblem_of_Maldives.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Maldives_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "Mali",
+        "capital": "Bamako",
+        "population": 20250834,
+        "fr": "Mali",
+        "flag": "https://flagcdn.com/ml.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Coat_of_arms_of_Mali.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Mali_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "Mauritania",
+        "capital": "Nouakchott",
+        "population": 4649660,
+        "fr": "Mauritanie",
+        "flag": "https://flagcdn.com/mr.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/0/01/Seal_of_Mauritania_%282018%29.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Mauritania_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "Mauritius",
+        "capital": "Port Louis",
+        "population": 1265740,
+        "fr": "Île Maurice",
+        "flag": "https://flagcdn.com/mu.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Coat_of_arms_of_Mauritius.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Mauritius_%28orthographic_projection_with_inset%29.svg"
+    },
+    {
+        "name": "Morocco",
+        "capital": "Rabat",
+        "population": 36910558,
+        "fr": "Maroc",
+        "flag": "https://flagcdn.com/ma.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Coat_of_arms_of_Morocco.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/7/78/Morocco_%28orthographic_projection%2C_WS_claimed%29.svg"
+    },
+    {
+        "name": "Mozambique",
+        "capital": "Maputo",
+        "population": 31255435,
+        "fr": "Mozambique",
+        "flag": "https://flagcdn.com/mz.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/1/14/Emblem_of_Mozambique.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/8/84/Mozambique_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "Namibia",
+        "capital": "Windhoek",
+        "population": 2540916,
+        "fr": "Namibie",
+        "flag": "https://flagcdn.com/na.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Coat_of_arms_of_Namibia.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Namibia_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "Niger",
+        "capital": "Niamey",
+        "population": 24206636,
+        "fr": "Niger",
+        "flag": "https://flagcdn.com/ne.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/0/03/Coat_of_arms_of_Niger.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/8/88/Niger_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "Nigeria",
+        "capital": "Abuja",
+        "population": 206139587,
+        "fr": "Nigéria",
+        "flag": "https://flagcdn.com/ng.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Coat_of_arms_of_Nigeria.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Nigeria_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "Rwanda",
+        "capital": "Kigali",
+        "population": 12952209,
+        "fr": "Rwanda",
+        "flag": "https://flagcdn.com/rw.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/1/17/Coat_of_arms_of_Rwanda.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Rwanda_on_the_globe_%28Zambia_centered%29.svg"
+    },
+    {
+        "name": "Sao Tome and Principe",
+          
+        "capital": "São Tomé",
+               
+        "population": 219161,
+               
+        "fr": "Sao Tomé-et-Principe",
+       
+        "flag": "https://flagcdn.com/st.svg",
+           
+        "embleme":"https://upload.wikimedia.org/wikipedia/commons/9/96/Coat_of_arms_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg",
+    
+        "position" :"https://upload.wikimedia.org/wikipedia/commons/3/35/Location_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe_AU_Africa.svg"
+        
+       
+        },
+    {
+        "name": "Senegal",
+        "capital": "Dakar",
+        "population": 16743930,
+        "fr": "Sénégal",
+        "flag": "https://flagcdn.com/sn.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Coat_of_arms_of_Senegal.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Senegal_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "Seychelles",
+        "capital": "Victoria",
+        "population": 98462,
+        "fr": "Seychelles",
+        "flag": "https://flagcdn.com/sc.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Coat_of_arms_of_Seychelles.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Location_Seychelles_AU_Africa.svg"
+    },
+    {
+        "name": "Sierra Leone",
+        "capital": "Freetown",
+        "population": 7976985,
+        "fr": "Sierra Leone",
+        "flag": "https://flagcdn.com/sl.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Coat_of_arms_of_Sierra_Leone.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/3/38/Sierra_Leone_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "Somalia",
+        "capital": "Mogadishu",
+        "population": 15893219,
+        "fr": "Somalie",
+        "flag": "https://flagcdn.com/so.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Coat_of_arms_of_Somalia.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Somalia_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "South Africa",
+        "capital": "Pretoria",
+        "population": 59308690,
+        "fr": "Afrique du Sud",
+        "flag": "https://flagcdn.com/za.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/fr/f/f7/Armoiries_de_l%27Afrique_du_Sud.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/6/6e/South_Africa_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "Sudan",
+        "capital": "Khartoum",
+        "population": 43849269,
+        "fr": "Soudan",
+        "flag": "https://flagcdn.com/sd.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Emblem_of_Sudan.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Sudan_%28orthographic_projection%29_highlighted.svg"
+    },
+    {
+        "name": "South Sudan",
+        "capital": "Juba",
+        "population": 11193729,
+        "fr": "Soudan du Sud",
+        "flag": "https://flagcdn.com/ss.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/2/28/Coat_of_arms_of_South_Sudan.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/f/fe/South_Sudan_hd_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "Eswatini",
+        "capital": "Mbabane",
+        "population": 1160164,
+        "fr": "Eswatini",
+        "flag": "https://flagcdn.com/sz.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Coat_of_arms_of_Eswatini.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Location_Eswatini_AU_Africa.svg"
+    },
+    {
+        "name": "Tanzania, United Republic of",
+        "capital": "Dodoma",
+        "population": 59734213,
+        "fr": "Tanzanie",
+        "flag": "https://flagcdn.com/tz.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Coat_of_arms_of_Tanzania.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Tanzania_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "Togo",
+        "capital": "Lomé",
+        "population": 8278737,
+        "fr": "Togo",
+        "flag": "https://flagcdn.com/tg.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Armoiries_du_Togo.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Togo_on_the_globe_%28Africa_centered%29.svg"
+    },
+    {
+        "name": "Tunisia",
+        
+        "capital": "Tunis",
+       
+        "population": 11818618,
+       
+        "fr": "Tunisie",
+        
+        "flag": "https://flagcdn.com/tn.svg",
+           
+        "embleme":"https://upload.wikimedia.org/wikipedia/commons/8/80/Coat_of_arms_of_Tunisia.svg",
+    
+        "position" :"https://upload.wikimedia.org/wikipedia/commons/d/da/Tunisia_%28orthographic_projection%29.svg"
+        
+       
+        },
+        {
+            "name": "Uganda",
+        
+            "capital": "Kampala",
+           
+            "population": 45741000,
+             
+            "fr": "Ouganda",
+           
+            "flag": "https://flagcdn.com/ug.svg",
+               
+            "embleme":"https://upload.wikimedia.org/wikipedia/commons/7/7c/Coat_of_arms_of_Uganda.svg",
+        
+            "position" :"https://upload.wikimedia.org/wikipedia/commons/1/1d/Uganda_%28orthographic_projection%29.svg"
+            
+           
+            },
+            {
+                "name": "Western Sahara",
+                
+                "capital": "El Aaiún",
+                    
+                "population": 510713,
+                    
+                "fr": "Sahara Occidental",
+                
+                "flag": "https://flagcdn.com/eh.svg",
+                   
+                "embleme":"https://upload.wikimedia.org/wikipedia/commons/4/40/Coat_of_arms_of_the_Sahrawi_Arab_Democratic_Republic.svg",
+            
+                "position" :"https://upload.wikimedia.org/wikipedia/commons/e/eb/Western_Sahara_%28orthographic_projection%29.svg"
+                
+               
+                },
+                {
+                    "name": "Zambia",
+                     
+                    "capital": "Lusaka",
+                        
+                    "population": 18383956,
+                        
+                    "fr": "Zambie",
+                   
+                    "flag": "https://flagcdn.com/zm.svg",
+                       
+                    "embleme":"https://upload.wikimedia.org/wikipedia/commons/2/28/Coat_of_arms_of_Zambia.svg",
+                
+                    "position" :"https://upload.wikimedia.org/wikipedia/commons/2/26/Zambia_%28orthographic_projection%29.svg"
+                    
+                   
+                    },
+                    {
+                    "name": "Zimbabwe",
+                    
+                    "capital": "Harare",
+                     
+                    "population": 14862927,
+                       
+                    "fr": "Zimbabwe",
+                    
+                    "flag": "https://flagcdn.com/zw.svg",
+                       
+                    "embleme":"https://upload.wikimedia.org/wikipedia/commons/0/01/Coat_of_arms_of_Zimbabwe.svg",
+                
+                    "position" :"https://upload.wikimedia.org/wikipedia/commons/5/50/Zimbabwe_%28orthographic_projection%29.svg"
+                    
+                   
+                    }
+]
